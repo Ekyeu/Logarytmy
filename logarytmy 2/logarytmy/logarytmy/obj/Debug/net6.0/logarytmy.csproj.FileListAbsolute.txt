@@ -1,0 +1,29 @@
+C:\Users\konto\source\repos\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.exe
+C:\Users\konto\source\repos\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.deps.json
+C:\Users\konto\source\repos\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.runtimeconfig.json
+C:\Users\konto\source\repos\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.dll
+C:\Users\konto\source\repos\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.pdb
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.csproj.AssemblyReference.cache
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.AssemblyInfoInputs.cache
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.AssemblyInfo.cs
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.csproj.CoreCompileInputs.cache
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.dll
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\refint\logarytmy.dll
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.pdb
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.genruntimeconfig.cache
+C:\Users\konto\source\repos\logarytmy\logarytmy\obj\Debug\net6.0\ref\logarytmy.dll
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.exe
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.deps.json
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.runtimeconfig.json
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.dll
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\bin\Debug\net6.0\logarytmy.pdb
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.AssemblyInfo.cs
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.dll
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\refint\logarytmy.dll
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.pdb
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\logarytmy.genruntimeconfig.cache
+C:\Users\student\source\repos\logarytmy 2\logarytmy\logarytmy\obj\Debug\net6.0\ref\logarytmy.dll
